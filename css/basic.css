@@ -1,0 +1,29 @@
+body 
+{
+	width: 50%;
+	margin: 0px auto;
+}
+
+#productname
+{
+	margin-left: 20px;
+}
+
+#version
+{
+	margin-left: 65px;
+}
+
+#solution
+{
+	margin-left: 60px;
+}
+
+input[type=submit]
+{
+	background-color:#999966;
+	padding: 10px;
+	color:black;
+	border: none;
+	cursor: pointer;
+}
